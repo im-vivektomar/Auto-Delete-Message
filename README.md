@@ -23,7 +23,7 @@ Delete group messages after a specific time
 
 
 <p align="left">
-<a href="https://t.me/+4BCzLkyATjswNTA1"><img src="https://img.shields.io/badge/Join%20Our%20Group-Vivek%20Tomar-darkblue?style=for-the-badge&logo=telegram"></a>
+<a href="https://t.me/+4BCzLkyATjswNTA1"><img src="https://img.shields.io/badge/Join%20Our%20Group-Error%20404-darkblue?style=for-the-badge&logo=telegram"></a>
 </p>
 <p align="left">
 <a href="https://github.com/im-vivektomar"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?style=for-the-badge&logo=github"></a>
@@ -35,5 +35,5 @@ Delete group messages after a specific time
 ##  CONTACT ME ON ⬇️ 
 
 <p align="left">
-<a href="https://t.me/ChVivekTomar"><img src="https://img.shields.io/badge/My%20TG%20ID-Vivek%20Tomar-darkblue?style=for-the-badge&logo=telegram"></a>
+<a href="https://t.me/ChVivekTomar"><img src="https://img.shields.io/badge/My%20TG%20ID-Erro%20404-darkblue?style=for-the-badge&logo=telegram"></a>
 </p>
